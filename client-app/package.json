@@ -16,6 +16,7 @@
     "formik": "^2.2.9",
     "mobx": "^6.3.2",
     "mobx-react-lite": "^3.2.0",
+    "npm-watch": "^0.10.0",
     "react": "^17.0.2",
     "react-calendar": "^3.4.0",
     "react-datepicker": "^4.1.1",
@@ -34,8 +35,19 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "watch": "npm-watch"
   },
+
+  "watch": {
+    "build": {
+      "patterns": [
+        "src"
+      ],
+      "extensions": "ts,tsx"
+    }
+  },
+
   "eslintConfig": {
     "extends": [
       "react-app",
