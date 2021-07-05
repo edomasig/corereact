@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a1de0cc.chunk.css",
+    "main.css": "/static/css/main.66a6c36c.chunk.css",
     "main.js": "/static/js/main.893df011.chunk.js",
     "main.js.map": "/static/js/main.893df011.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2838170c.js",
@@ -12,7 +12,7 @@
     "static/js/3.43bae463.chunk.js.map": "/static/js/3.43bae463.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4e8a6840.chunk.css.map": "/static/css/2.4e8a6840.chunk.css.map",
-    "static/css/main.0a1de0cc.chunk.css.map": "/static/css/main.0a1de0cc.chunk.css.map",
+    "static/css/main.66a6c36c.chunk.css.map": "/static/css/main.66a6c36c.chunk.css.map",
     "static/js/2.75742c1a.chunk.js.LICENSE.txt": "/static/js/2.75742c1a.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.2838170c.js",
     "static/css/2.4e8a6840.chunk.css",
     "static/js/2.75742c1a.chunk.js",
-    "static/css/main.0a1de0cc.chunk.css",
+    "static/css/main.66a6c36c.chunk.css",
     "static/js/main.893df011.chunk.js"
   ]
 }
